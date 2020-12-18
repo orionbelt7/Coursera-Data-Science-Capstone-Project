@@ -1,2 +1,4 @@
-# Coursera-Data-Science-Capstone-Project
-Week 1, This repository will be used for the Coursera "Applied Data Science Capstone" project course. We will call this project "Battle of Neighborhoods".  In this project, we are going to use Data Science to find the best suitable to us neighborhood in Toronto, ON, where we could move to, in order to be closer to work, without sacrificing, at least most, of the amenities of the neighborhood we're used to, in the area we are currently living in.
+# Coursera-Data-Science-Capstone-Project: git Hub Learning Lab - COVID19
+Week 1, This repository will be used for the Coursera "Applied Data Science Capstone" project course.
+
+The main Python script is "data_cleaning.py" in the "scripts" subdirectory.
